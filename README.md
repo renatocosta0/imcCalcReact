@@ -23,6 +23,7 @@ Instale as dependências:
 
 Inicie a aplicação:
 - npm start
+
 Abra o navegador e acesse http://localhost:3000.
 
 Insira seu peso e altura nos campos fornecidos.
